@@ -1,4 +1,4 @@
-package model
+package vstore_tester_model
 
 import (
 	"context"
