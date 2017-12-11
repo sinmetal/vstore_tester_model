@@ -2,8 +2,8 @@ package vstore_tester_model
 
 import (
 	"context"
-	"testing"
 	"fmt"
+	"testing"
 
 	"go.mercari.io/datastore"
 	"go.mercari.io/datastore/boom"
